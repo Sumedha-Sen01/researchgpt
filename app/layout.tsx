@@ -6,10 +6,11 @@ export const metadata: Metadata = {
   description:
     "AI-powered research paper analysis and prompt optimization",
   applicationName: "ResearchGPT",
-  generator: "ResearchGPT",
 
   icons: {
     icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
   },
 
   formatDetection: {
